@@ -1,0 +1,69 @@
+  [{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Dosa",
+    "image": "dosa.png",
+    "price": "180",
+    "size": "1"
+  },
+  {
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Idli",
+    "image": "idle.png",
+    "price": "60",
+    "size": "6"
+  },
+  {
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Appam",
+    "image": "Appam.jpg",
+    "price": "120",
+    "size": "1"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Mendu Vada",
+    "image": "Medu-Vada-Recipe.jpg",
+    "price": "60",
+    "size": "3"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Payasam",
+    "image": "Payasam.png",
+    "price": "100",
+    "size": "1"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Rava Upma",
+    "image": "Rava_Upma.jpg",
+    "price": "80",
+    "size": "1"
+  },
+  {
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Uttapam",
+    "image": "Uttapam.jpeg",
+    "price": "150",
+    "size": "1"
+  },
+  { 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Ven Pongal",
+    "image": "Ven-Pomgal.jpg",
+    "price": "120",
+    "size": "1"
+  }]
